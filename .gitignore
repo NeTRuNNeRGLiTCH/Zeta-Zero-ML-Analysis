@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Large Raw Data
+# (Keep this if your 'raw_zeros_2m.txt' is > 100MB, otherwise comment it out)
+# raw_zeros_2m.txt
+
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Model Checkpoints (optional to ignore if they are huge)
+# *.pth
+# *.pt

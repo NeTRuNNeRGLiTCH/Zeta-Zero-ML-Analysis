@@ -66,7 +66,7 @@ While the 1D sequence search is complete, the blueprint for a **3D Tensor Lattic
 ---
 
 ### 👨‍💻 Developed by
-**as if you care, just keep reading**
+**as if you care, just keep reading\n**
 **A 19-year-old Computer Science student.**
 *Driven by the intuition that what we call "chaos" is merely a high-dimensional order we haven't built the right lens for yet.*
 

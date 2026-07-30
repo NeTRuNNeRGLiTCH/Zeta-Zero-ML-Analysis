@@ -3,7 +3,6 @@
 
 This is the definitive **"Project Alpha"** documentation. It is written to bridge the gap between high-level Computer Science and Analytical Number Theory. 
 
-When you upload this to GitHub, make sure the 4 `.jpg` files are in the same folder as the `README.md` so they appear correctly.
 
 ***
 
